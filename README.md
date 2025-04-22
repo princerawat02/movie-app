@@ -2,7 +2,7 @@
 
 A React-based movie application that allows users to search for movies, view details, and explore trending movies. The app fetches data from the [TMDB API](https://www.themoviedb.org/documentation/api) and uses **Appwrite** to store and display the most searched queries in the trending section.
 
-Check out the live demo: [Movie App](https://movie-app-chi-puce.vercel.app/)
+Check out the live demo: [Movie App](https://movie-app-princerawat02s-projects.vercel.app/)
 
 ## Features
 
